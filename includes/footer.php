@@ -24,16 +24,10 @@
             <div class="col-lg-4 mb-4">
                 <h5 class="fw-bold mb-3">Conecta Conmigo</h5>
                 <div class="social-links">
-                    <a href="https://github.com/sebastianflores" target="_blank" class="text-dark me-3 fs-4" title="GitHub">
+                    <a href="https://github.com/Boodem1616" target="_blank" class="text-dark me-3 fs-4" title="GitHub">
                         <i class="fab fa-github"></i>
                     </a>
-                    <a href="https://linkedin.com/in/sebastianflores" target="_blank" class="text-dark me-3 fs-4" title="LinkedIn">
-                        <i class="fab fa-linkedin"></i>
-                    </a>
-                    <a href="https://twitter.com/sebastianflores" target="_blank" class="text-dark me-3 fs-4" title="Twitter">
-                        <i class="fab fa-twitter"></i>
-                    </a>
-                    <a href="mailto:sebastian@example.com" class="text-dark fs-4" title="Email">
+                    <a href="mailto:Bonny7939@gmail.com" class="text-dark fs-4" title="Email">
                         <i class="fas fa-envelope"></i>
                     </a>
                 </div>
