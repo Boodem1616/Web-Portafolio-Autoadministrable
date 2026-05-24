@@ -59,7 +59,7 @@ try {
     ]);
     
     // Enviar email de notificación 
-    $to = 'Bonny7939@gmail.com';
+    $to = 'correo@example.com'; // Cambia esto por tu correo real
     $subject = "Nuevo mensaje de contacto: $asunto";
     $email_body = "Nombre: $nombre\n";
     $email_body .= "Email: $email\n";

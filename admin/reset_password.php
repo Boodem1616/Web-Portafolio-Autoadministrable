@@ -1,5 +1,11 @@
 <?php
 require_once __DIR__ . '/../config/database.php';
+//===============================
+//ARCHIVO SOLO EN CASO DE QUE SE TE OLVIDE LA CONTRASEÑA
+//BORRAR ANTES DE PUBLICARLO EN TU PAGINA WEB O HACERLO
+//INACCESIBLE DESDE EL NAVEGADOR
+//===============================
+
 
 // Activar visualización de errores para debugging
 ini_set('display_errors', 1);

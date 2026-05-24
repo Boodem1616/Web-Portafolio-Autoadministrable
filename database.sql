@@ -11,7 +11,7 @@ CREATE TABLE admin_users (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
--- Insertar usuario admin (contraseña: Kkck12345#)
+-- Insertar usuario admin (contraseña admin123 haseada)
 INSERT INTO admin_users (username, password, email) VALUES 
 ('admin', '$2y$10$ugFflx2/x0uOaHUEESmiUep8wgl1ugmI9by0bFhlPIXLB7X1gBZRG', 'admin@portafolio.com');
 
